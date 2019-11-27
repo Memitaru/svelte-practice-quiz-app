@@ -11,11 +11,6 @@ Quiz app using [this tutorial](https://dev.to/manan30/i-created-a-quiz-app-using
 
 
 
-
-
-
-
-
 *Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
